@@ -1,0 +1,100 @@
+.navbt1 {
+border-radius: 0%;
+border: 0px;
+padding-left: 13px;
+padding-right: 13px;
+
+}
+.navbt1:hover {
+    background-color: black;
+}
+.navbt2 {
+border-radius: 0%;
+padding-left: 13px;
+padding-right: 13px;
+
+}
+.nabr {
+    border-bottom: 0.1px solid rgb(54, 54, 54);
+}
+
+.dli:hover {
+    color: rgba(255, 255, 255, 0.404);
+}
+
+.dli {
+    color: white;
+}
+.damn:hover {
+padding-bottom: 5px;
+}
+
+.super {
+    font-size: 6vw;
+    font-weight: bold;
+    line-height: 112%;
+    letter-spacing: 1px;
+    font-family: 'Heebo', sans-serif;
+}
+    
+.superp{
+    width: 65%;
+    font-size: 23px;
+    letter-spacing: 0.5px;
+    font-weight: 630;
+}
+
+.startbt {
+    border-radius:0px ;
+}
+
+.igm {
+    border-radius: 1%;
+    width: 93%;
+    /* border: 30px #3838ca; */
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+
+
+
+
+/* fieldset {
+	border: none;
+	width: 600px;
+	padding: 0;
+	overflow: hidden;
+}
+
+fieldset > label input[type=radio] {
+	display: none;
+}
+
+fieldset > label > span {
+	padding: 15px 20px;
+	display: block;
+	cursor: pointer;
+	background: #423434;
+}
+
+fieldset > label > div {
+	display: grid;
+	grid-template-rows: 0fr;
+	transition: all ease-in-out 300ms;
+	overflow: hidden;
+	padding: 10px;
+}
+
+fieldset > label input[type=radio]:checked + div {
+	grid-template-rows: 1fr;
+}
+
+fieldset > label > div > p {
+	overflow: hidden;
+	padding: 0px;
+	margin: 0px;
+} */
+
+
+
